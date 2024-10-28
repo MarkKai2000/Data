@@ -12,7 +12,7 @@ The shared datasets include:
 
 - **`CybersquattingNFT.csv`**: A complete list of all identified Cybersquatting NFT collections.
   
-- **`NFTMetadata.csv`**: Metadata for all 220,000 NFTs in the study.
+- **`NFTMetadata.csv`**: Metadata for all 220,918 NFTs in the study.
   
 - **`NFTTokenURI.csv`**: The URI for each NFT token. Due to GitHub’s storage constraints, only 10,000 entries are included here.
   

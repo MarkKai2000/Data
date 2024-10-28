@@ -1,4 +1,4 @@
-Rank,Type,originalname,name,scamname,contractaddress,creatoraddress,createtime,erc
+Rank,Type,originalname,scamname,contractaddress,creatoraddress,createtime,erc
 1,IdenticalName,Bored Ape Yacht Club,Bored Ape Yacht Club,0x0cef7bb21fc5bc085c8bbeb846ba15e36abb5bd2,0xc39d677b064d263cbf2d090d79d28675471b661e,2022-11-21 21:46:13.899849,ERC721
 1,MutationSquatting,Bored Ape Yacht Club,BoredApeYachtClub,0x01ea4219854e88b38415a207da792fec5da55899,0xf7e414bb95d4262c0ab82d84e4f0be8fbb16efa1,2022-02-15 02:03:43.969588,ERC721
 1,CombinationSquatting,Bored Ape Yacht Club,Bored Ape Yacht Club Forever,0x0645dc636a513ae898d0e0e127338d680f9dbede,0xb2f2c269ef63d29ae0584051469912144625f63a,2022-10-03 08:49:26.176527,ERC1155
